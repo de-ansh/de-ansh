@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ashish Mishra</h1>
 <h3 align="center">A passionate Full Stack Web and Flutter developer from India</h3>
-<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='right'>
+<img src="https://github.com/nirala69/nirala69/blob/master/70804f7e25b11f29db904f2fa7b4cd9d.gif" width="350" align='center'>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=de-ansh&label=Profile%20views&color=0e75b6&style=flat" alt="de-ansh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=de-ansh" alt="de-ansh" /></a> </p>
