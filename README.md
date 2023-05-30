@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@ashishmish74](https://medium.com/@ashishmish74)
 
-- 💬 Ask me about **Flutter, React, Django**
+- 💬 Ask me about **Flutter, React, Spring Boot**
 
 - 📫 How to reach me **anshm9448@gmail.com**
 
