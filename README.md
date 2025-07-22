@@ -21,7 +21,7 @@
 - 💬 Ask me about **Flutter, React, Spring Boot**
 
 - 📫 How to reach me **anshm9448@gmail.com**
--  📫 How to reach me **[linkTree](https://mirror-citrine-f1d.notion.site/Bot-s-Notion-ef500c2b72394c1fac315744856ebe0b)**
+-  📫 How to reach me **[linkTree](https://pythonbot.notion.site/Bot-s-Notion-ef500c2b72394c1fac315744856ebe0b)**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1BWuVrIDroUh1hHOEJDJ0BHgTNFPP3Hn3/view?usp=share_link](https://drive.google.com/file/d/1BWuVrIDroUh1hHOEJDJ0BHgTNFPP3Hn3/view?usp=share_link)
 
